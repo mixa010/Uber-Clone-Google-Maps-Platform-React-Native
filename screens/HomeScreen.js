@@ -11,7 +11,7 @@ import { setOrigin, setDestination } from "../slices/navSlice";
 const HomeScreen = () => {
   const dispatch = useDispatch();
   const item = {
-    image: require("../../Žarko_Peruničić_diplomski_rad_taxi_app/assets/taxi.png"),
+    image: require("../../Uber-Clone-Google-Maps-Platform-React-Native-master/assets/taxi.png"),
   };
 
   return (
